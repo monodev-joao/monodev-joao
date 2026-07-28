@@ -2,7 +2,7 @@
 
 I'm currently studying Systems Analysis and Development at the University of Vale do Sinos (UNISINOS) and have a background as an IT Technician. While I currently enjoy a great position as a Technical Assistant at Anildo Advogado, my passion lies in becoming a developer.
 
-I'm actively studying to make this transition into the development field, and I'm open to exploring opportunities in both frontend and backend development, across different programming languages. Alongside my university studies, I'm taking courses 📚 to further develop my skills and knowledge as a developer. My current focus is on backend development ⚙️, and I'm particularly interested in the Python language 🐍.
+I'm actively studying to make this transition into the development field, and I'm open to exploring opportunities in both frontend and backend development, across different programming languages. Alongside my university studies, I'm taking courses 📚 to further develop my skills and knowledge as a developer. My current focus is on frontend development 💻, working with HTML, CSS, and JavaScript, and I'm particularly interested in React ⚛️.
 
 ### Contacts 🔗
 <div>
@@ -12,7 +12,7 @@ I'm actively studying to make this transition into the development field, and I'
 
 ### My GitHub Stats 📊
 <div>
-<a href="https://github.com/oJoaoPeOliveira">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oJoaoPeOliveira&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=oJoaoPeOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/monodev-joao">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monodev-joao&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=monodev-joao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
