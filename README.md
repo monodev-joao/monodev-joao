@@ -9,11 +9,3 @@ I'm actively studying to make this transition into the development field, and I'
 <a href = "mailto:joaooliveiratecnicosl@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joão-pedro-736b98144/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-### My GitHub Stats 📊
-<div>
-<a href="https://github.com/monodev-joao">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monodev-joao&layout=compact&langs_count=7&theme=dracula"/>
-
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=monodev-joao&show_icons=true&theme=dracula"/>
-</div>
